@@ -7,6 +7,7 @@ public class CalculadoraSimple {
 	//cambio para commit 
 	//cambio en la rama feature
     // Función para sumar dos números
+	//cambio despues de la funcion
     public static double sumar(double a, double b) {
         return a + b;
     }
